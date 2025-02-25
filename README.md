@@ -4,3 +4,9 @@ In the project, we modeled welding in Abaqus using DFLUX subroutine. VDFLUX subr
 <p align="center">
   <img width="750" src="Figures/1.png">
 </p>
+
+As shown in the figure below, the objective of this problem is to use DFLUX to analyze the welding between two plates, and the corresponding INP file is also attached.
+
+<p align="center">
+  <img width="750" src="Figures/2.png">
+</p>
