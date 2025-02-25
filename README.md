@@ -1,0 +1,2 @@
+# Abaqus-DFLUX-Subroutine-in-Fortran-Language-for-Welding-Simulation
+In the project, we modeled welding in Abaqus using DFLUX subroutine. DFLUX subroutine is an Abaqus tool, designed for thermal loading in form of body/surface fluxes, as a function of time, coordinates, etc. We also have a free blog on our website that delves into the details of DFLUX subroutine. You can access it through the provided link.
