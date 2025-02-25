@@ -3,3 +3,4 @@ In the project, we modeled welding in Abaqus using DFLUX subroutine. VDFLUX subr
 
 ![image](https://github.com/user-attachments/assets/d7926a8a-1acb-4265-9eeb-c867014230c3)
 
+<img src="[resources/Picture2.png](https://github.com/user-attachments/assets/d7926a8a-1acb-4265-9eeb-c867014230c3)" width="220">
