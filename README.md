@@ -10,3 +10,5 @@ As shown in the figure below, the objective of this problem is to use DFLUX to a
 <p align="center">
   <img width="750" src="Figures/2.png">
 </p>
+
+**ℹ️ This is just a demo to show how the code is structured. For the full, working version, please visit our website.**
